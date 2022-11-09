@@ -13,3 +13,5 @@
 | ----------------------------------- | :------: |  :-----------:   |
 | [Hello World](./HTML/hello_world.html)                         | HTML      |Nov 09,2022    |
 | [Embed Image](./HTML/embed_image.html)                         | HTML      |Nov 09,2022    |
+| [Figure Element](./HTML/figure_element.html)                         | HTML      |Nov 09,2022    |
+
