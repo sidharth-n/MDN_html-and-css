@@ -11,4 +11,5 @@
 
 | Problem Name                        | Type    |  Date            |
 | ----------------------------------- | :------: |  :-----------:   |
-| [Hello World](./hello-world/)                         | HTML      |Nov 09,2022    |
+| [Hello World](./HTML/hello_world.html)                         | HTML      |Nov 09,2022    |
+| [Embed Image](./HTML/embed_image.html)                         | HTML      |Nov 09,2022    |
